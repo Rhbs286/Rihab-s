@@ -1,0 +1,25 @@
+
+        h1 {
+            color:blue;
+            font-family: Arial;
+        }
+        .strong {
+            color:blue;
+            font-family: Arial;
+
+        }
+        .em {
+            color: green;
+            font-family: Georgia;
+        }
+        ul {
+            font-family:arial;
+        }     
+        h3{
+            color:green;
+            font-size:medium;
+        }
+        ol {
+            font-family: arial;
+        }
+        
